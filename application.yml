@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+  profiles: dev
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    content-type: text/html
+    prefix: /templates/
+    suffix: .html
+    cache: false
