@@ -8,4 +8,4 @@ spring:
     prefix: /templates/
     suffix: .html
     cache: false
-envname:uat
+envname: uat
